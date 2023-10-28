@@ -22,9 +22,9 @@
 
  Сборка органайзера было с помощью следуюшего инструмента
 
-![IMG](IMG_3593.jpeg)
-![IMG](IMG_3592.jpeg)
-![IMG](IMG_3592.jpeg)
-![IMG](IMG_3588.jpeg)
-![IMG](IMG_3591. jpeg)
+![IMG](photos/IMG_3593.jpeg)
+![IMG](photos/IMG_3592.jpeg)
+![IMG](photos/IMG_3592.jpeg)
+![IMG](photos/IMG_3588.jpeg)
+![IMG](photos/IMG_3591.jpeg)
 
